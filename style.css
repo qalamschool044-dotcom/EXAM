@@ -76,3 +76,19 @@
     background-color: white;
     box-shadow: 3px 3px 3px rgb(228, 216, 216);
 }
+.zm{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-right: 40px;
+    background-color: #FEF9F2;
+}
+.zm1{
+    color: #FF9C08;
+}
+.zm2{
+    color: #bdb9b9;
+}
+.zm4{
+    font-size:  50px;
+}
