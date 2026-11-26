@@ -92,3 +92,130 @@
 .zm4{
     font-size:  50px;
 }
+
+
+
+
+.cls {
+    width: 100%;
+    background: #fcf8f1;
+    padding: 60px 20px 0;
+}
+
+.cls1 {
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.cls2 {
+    flex: 1 1 330px;
+    min-width: 0;
+}
+
+.cls3 {
+    color: #ff9800;
+    font-size: 13px;
+    margin-bottom: 12px;
+}
+
+.cls2 h1 {
+    font-size: 26px;
+    line-height: 1.25;
+    color: #111;
+}
+
+.cls4 {
+    color: #777;
+    font-size: 13px;
+    line-height: 1.7;
+    margin-top: 12px;
+    margin-bottom: 26px;
+}
+
+.cls5 {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border: 1px solid #168bff;
+    border-radius: 3px;
+}
+
+.cls6 {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 7px;
+    margin-top: 15px;
+}
+
+.cls7 {
+    flex: 1 1 330px;
+    min-width: 0;
+}
+
+.cls8 {
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+    margin-bottom: 27px;
+}
+
+.cls9 {
+    background: #ff9800;
+    border: none;
+    padding: 14px 23px;
+    border-radius: 7px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.cls10 {
+    background: white;
+    border: 1px solid #eee;
+    padding: 14px 23px;
+    border-radius: 7px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.cls11 {
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+    border-radius: 7px;
+}
+
+.cls12 {
+    color: #777;
+    font-size: 12px;
+    line-height: 1.9;
+    margin-top: 25px;
+}
+
+.cls13 {
+    margin-top: 13px;
+}
+
+.cls13 p {
+    font-size: 12px;
+    margin-bottom: 13px;
+}
+
+.cls13 span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+    background: #ff9800;
+    color: white;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+.cls2 h1{
+    font-size: 50px;
+}
