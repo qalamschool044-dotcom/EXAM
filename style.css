@@ -8,6 +8,7 @@
     justify-content: space-around;
     align-items: center;
     border-bottom: 1px solid #bdb9b9;
+
 }
 .ko1{
     display: flex;
@@ -38,4 +39,40 @@
     border-radius: 10px;
     border: none;
     color: #090909;
+}
+.mz{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.mz1 img{
+    width: 550px;
+    height: 700px;
+    margin-right: 0px;
+    position: relative;
+    bottom:  4,5px;
+    left: 75px;
+}
+.mz2 {
+    margin-left: 50px;
+
+}
+.mz2 h1{
+    font-size: 50px;
+}
+.mz2 p{
+    color: #bdb9b9;
+}
+.mz3 button{
+    justify-content: space-between;
+    padding: 20px;
+    border: none;
+
+}
+.mz5 {
+    background-color: #FF9C08;
+}
+.mz6{
+    background-color: white;
+    box-shadow: 3px 3px 3px rgb(228, 216, 216);
 }
