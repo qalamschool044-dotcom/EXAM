@@ -1,0 +1,41 @@
+.glavni div{
+    max-width: 1200px;
+    margin: auto;
+
+}
+.ko{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #bdb9b9;
+}
+.ko1{
+    display: flex;
+
+}
+.ko1 img{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-right:10px;
+}
+.ko2{
+    display: flex;
+    
+}
+.ko2 p{
+    margin-left: 40px;
+    color: #090909;
+
+}
+.ko3{
+    display: flex;
+    gap: 10px;
+    color: #090909;
+}
+.ko3 button{
+    background-color: #FF9C08;
+    border-radius: 10px;
+    border: none;
+    color: #090909;
+}
